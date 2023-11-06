@@ -6,10 +6,10 @@
 ## Technologies used :
    1. HTML
    2. CSS
-   (Google Fonts & Font-awesome)
+   3. Google Fonts & Font-awesome
 
 ## Author :
    Himanshu Jangir
 
 ## Link :
-   url : 
+   url : https://himanshuj16.github.io/amazon-clone/
